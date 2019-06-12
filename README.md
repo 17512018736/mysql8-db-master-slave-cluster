@@ -1,0 +1,1 @@
+# vagrant-mysql8-db-master-slave-cluster
